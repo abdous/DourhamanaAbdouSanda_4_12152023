@@ -1,2 +1,2 @@
 # DourhamanaAbdouSanda_4_12152023
-Project no 4 with objectif of improving existing repo
+The objectif of this project is to improve an existing project regarding SEO and A11Y ...etc
