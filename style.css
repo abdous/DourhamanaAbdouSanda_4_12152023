@@ -290,6 +290,11 @@ a:hover {
 
 #bloc-2-services p {
   font-size: 11px;
+  
+  @media (max-width: 767px) {
+    font-size: 16px;
+  
+  }
 }
 
 .navbar {
