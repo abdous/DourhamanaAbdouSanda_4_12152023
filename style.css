@@ -654,7 +654,6 @@ a {
   font-family: "helvetica";
   font-weight: 400;
   color: white !important;
-  /* #575757 !important; */
 }
 
 .container {
@@ -705,9 +704,6 @@ p {
 .social {
   max-width: 400px;
   margin: auto auto auto auto;
-  /* .fa-twitter{
-    color: #364577;
-  } */
 }
 
 h2 {
@@ -788,7 +784,7 @@ h4 {
 }
 
 .tc-white {
-  color: #364577 !important;
+  color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
